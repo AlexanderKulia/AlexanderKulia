@@ -20,7 +20,3 @@ Finds and removes duplicates in Spotify playlists. OAuth flow, a small htmx UI, 
 - Measure before optimizing, and find the real bottleneck before adding hardware
 - When a problem keeps coming back, fix the class of bug, not the instance
 - Write the decision down, including the arguments against it
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/alexanderkulia)
